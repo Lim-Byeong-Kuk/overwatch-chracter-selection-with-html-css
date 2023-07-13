@@ -1,0 +1,25 @@
+{
+  "name": "overwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lim-Byeong-Kuk/overwatch-chracter-selection-with-html-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lim-Byeong-Kuk/overwatch-chracter-selection-with-html-css/issues"
+  },
+  "homepage": "https://github.com/Lim-Byeong-Kuk/overwatch-chracter-selection-with-html-css#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.63.6"
+  }
+}
